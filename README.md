@@ -2,6 +2,10 @@
 
 Petit gestionnaire de tâches pour pratiquer Git.
 
+## Objectif pédagogique
+
+Ce projet sert à pratiquer Git sur un cas concret.
+
 ## Fonctionnalités
 
 - Afficher une liste de tâches
