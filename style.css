@@ -13,3 +13,19 @@ body {
   border: 1px solid #d8deea;
   border-radius: 8px;
 }
+
+.task-form {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.task-form input {
+  flex: 1;
+  padding: 10px;
+}
+
+.task-form button {
+  padding: 10px 14px;
+}
+
