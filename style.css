@@ -28,4 +28,9 @@ body {
 .task-form button {
   padding: 10px 14px;
 }
+.search-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 16px;
+}
 
