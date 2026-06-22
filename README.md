@@ -5,3 +5,5 @@ Petit gestionnaire de tâches pour pratiquer Git.
 ## Fonctionnalités
 
 - Afficher une liste de tâches
+- Ajouter une tâche depuis un formulaire
+- Gérer les tâches du quotidien
